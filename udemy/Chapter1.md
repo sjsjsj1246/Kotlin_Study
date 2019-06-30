@@ -98,8 +98,7 @@
 
 ### HelloKotlin
 
-
-
+Kotlin/JVM 프로젝트 생성
 
 ###
 - kotlin은 NullPointException을 방지하기 위해서 변수 선언 시 널 가능성에 대해 명시해야 한다.
